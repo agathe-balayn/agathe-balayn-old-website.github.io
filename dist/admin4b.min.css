@@ -8692,7 +8692,7 @@ body{
 	.app .app-sidebar.show{
 		-webkit-box-shadow:0 0 0.5rem rgba(0,0,0,0.25);
 		box-shadow:0 0 0.5rem rgba(0,0,0,0.25);
-		width:100%
+		width:auto
 	}
 	.app .app-sidebar.show::before{
 		visibility:visible;
