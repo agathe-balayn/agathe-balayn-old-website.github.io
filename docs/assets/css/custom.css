@@ -44,3 +44,8 @@
   width: 300px;
   white-space: normal;
 }
+
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
