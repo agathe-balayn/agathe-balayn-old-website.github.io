@@ -1,5 +1,12 @@
+.body {
+  background-color: #d4979b;
+}
+
+.app-sidebar {
+  background-color: red;
+}
 .app-sidebar .sidebar-header {
-  background-image: url("../img/sidebar-header.svg");
+  background-color: #ffb733;
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -21,4 +28,19 @@
   background:
     linear-gradient(-160deg, rgba(60, 162, 224, .25) 50%, rgba(241, 244, 245, .9) 50%),
     url("../img/rocky-mountain.jpg");
+}
+
+.content-body {
+  background-color: #ffffff;
+  color: #141414;
+}
+
+.app-sidebar .sidebar-nav li#selected {
+  background:#f2f4f6;
+  color:#2e8cc2
+}
+
+.sidebar-nav li  a {
+  width: 300px;
+  white-space: normal;
 }
