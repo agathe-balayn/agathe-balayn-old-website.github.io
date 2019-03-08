@@ -3718,7 +3718,7 @@ input[type="submit"].btn-block,input[type="reset"].btn-block,input[type="button"
 	margin-right:1rem;
 	font-size:1.25rem;
 	line-height:inherit;
-	white-space:nowrap
+	white-space:break-all
 }
 .navbar-brand:hover,.navbar-brand:focus{
 	text-decoration:none
