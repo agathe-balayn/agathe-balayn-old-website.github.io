@@ -20,3 +20,9 @@ workflows:
                 - master
 plugins:
   - jekyll-seo-tag
+
+title: Agathe Balayn's academic website
+description: A website describing my different research projects and the associated publications.
+url: https://agathe-balayn.github.io/docs/index.html
+social:
+  name: Agathe Balayn
